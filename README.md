@@ -7,7 +7,7 @@
 
 ### Minhas main skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,vscode)](https://skillicons.dev)
-### Studying at the moment:
+### Estudando no momento:
 [![My Skills](https://skillicons.dev/icons?i=js,jquery)](https://skillicons.dev)
 </div>
 <div align="center">
