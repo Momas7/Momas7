@@ -8,7 +8,7 @@
 ### Minhas main skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,vscode)](https://skillicons.dev)
 ### Estudando no momento:
-[![My Skills](https://skillicons.dev/icons?i=js,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,java)](https://skillicons.dev)
 </div>
 <div align="center">
   
