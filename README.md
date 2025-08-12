@@ -4,9 +4,7 @@
 
 <div align="center" style="inline-block"> 
 <br>
-
-### Minhas main skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,vscode)](https://skillicons.dev)
+  
 ### Estudando no momento:
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,java)](https://skillicons.dev)
 </div>
