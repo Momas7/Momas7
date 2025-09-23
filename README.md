@@ -6,7 +6,7 @@
 <br>
   
 ### Estudando no momento:
-[![My Skills](https://skillicons.dev/icons?i=js,java,typescript,vue,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,vue,angular)](https://skillicons.dev)
 </div>
 <div align="center">
   
