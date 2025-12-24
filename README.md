@@ -6,7 +6,7 @@
 <br>
   
 ### Estudando no momento:
-[![My Skills](https://skillicons.dev/icons?i=typescript,next,react,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,python)](https://skillicons.dev)
 </div>
 <div align="center">
   
