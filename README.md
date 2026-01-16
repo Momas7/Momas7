@@ -15,12 +15,6 @@ Me chamo Lucas Matos, tenho 22 anos. Atualmente, estou cursando Análise e desen
         />
     </a>
     <a href="https://www.linkedin.com/in/lucas-moraes-js/">
-        <img 
-            alt="LinkedIn Views"
-            title="Visualizações no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
-        />
-    </a>
 </p>
     <a href="https://github.com/Momas7?tab=repositories">
         <img 
