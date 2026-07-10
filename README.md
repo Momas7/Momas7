@@ -4,7 +4,7 @@
 
 **`Cursando Análise e desenvolvimento de sistemas`**
 
-Me chamo Lucas Matos, tenho 22 anos. Atualmente, estou cursando Análise e desenvolvimento de sistemas na Universidade Católica. Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e projetos através do meu LinkedIn, no perfil "[Lucas Matos](https://www.linkedin.com/in/lucas-moraes-js/)", onde falo sobre minha rotina de estudos, desenvolvimento de projetos, aprendizado em programação e minha evolução na área de tecnologia.
+Me chamo Lucas Matos, tenho 23 anos. Atualmente, estou cursando Análise e desenvolvimento de sistemas na Universidade Católica. Sou apaixonado por tecnologia e compartilho meu aprendizado, experiências e projetos através do meu LinkedIn, no perfil "[Lucas Matos](https://www.linkedin.com/in/lucas-moraes-js/)", onde falo sobre minha rotina de estudos, desenvolvimento de projetos, aprendizado em programação e minha evolução na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucas-moraes-js/">
